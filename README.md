@@ -16,7 +16,7 @@ I was captivated by this artwork and decided to create a digital version. My goa
 - Rope Simulation: The rope movement is imitated using a **7th-order Bezier curve**.
 - Device Motion Detection: Utilizes `CMMotionManager` to detect user shakes.
 - Dynamic Rope Behavior: When the user shakes the device hard enough, the direction is detected, and control **points are adjusted accordingly to the left or right**.
-- Length Preservation: Keeping the **rope length constant** is maintained using numeric equations. *Not sure if the work correctly - I asked ChatGPT help me there. But it looks like plausible.*
+- Length Preservation: **Constant rope length** is maintained using numeric equations. *Not sure if it works correctly - I asked ChatGPT to help me there. But it looks plausible.*
 
 ## Credits
 
