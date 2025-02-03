@@ -7,6 +7,8 @@ A SwiftUI pet project inspired by an intriguing art object found on [Instagram](
 I was captivated by this artwork and decided to create a digital version. My goal was to simulate the behavior of the rope and allow users to interact with it by shaking their devices.
 
 ![instagram](https://github.com/user-attachments/assets/cf9273b1-8e35-4611-9182-c428ce006544)
+![device-2](https://github.com/user-attachments/assets/40bf13ea-af3f-4d3a-8fbd-cffd148b1279)
+
 
 
 ## Features & Technical Details
