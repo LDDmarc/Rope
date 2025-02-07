@@ -20,7 +20,7 @@ I was captivated by this artwork and decided to create a digital version. My goa
 
 ## Other implementations
 
-- [davehorner codepen] (https://codepen.io/Dave-Horner/pen/XJrveYd)
+- [davehorner codepen](https://codepen.io/Dave-Horner/pen/XJrveYd)
 
 ## Credits
 
