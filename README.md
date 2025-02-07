@@ -18,6 +18,10 @@ I was captivated by this artwork and decided to create a digital version. My goa
 - Dynamic Rope Behavior: When the user shakes the device hard enough, the direction is detected, and control **points are adjusted accordingly to the left or right**.
 - Length Preservation: **Constant rope length** is maintained using numeric equations. *Not sure if it works correctly - I asked ChatGPT to help me there. But it looks plausible.*
 
+## Other implementations
+
+- [davehorner codepen] (https://codepen.io/Dave-Horner/pen/XJrveYd)
+
 ## Credits
 
 A big thank you to [simeonfik](https://www.instagram.com/simeonfik/) for the inspiration behind this project!
